@@ -18,5 +18,5 @@ subject_label,baseline_session,followup_session,baseline_t1,followup_t1
 qsub -t 1:10 submit_midpoint.sh job_list.csv
 
 ### Example of output directory tree for two participants:
-![alt text](https://github.com/wcoath/spm-midpoint-reg/blob/main/Screenshot 2021-02-17 at 15.05.11.png)
+![alt text](https://github.com/wcoath/spm-midpoint-reg/blob/main/output_tree.png)
 
